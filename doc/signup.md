@@ -28,7 +28,8 @@ The archive includes:
 > the binaries by installing Upspin from source.
 > First [install Go](https://golang.org/doc/install) and then use `go get` to
 > fetch Upspin, upsin-ui and its dependencies and build them:
-> ```
+> 
+```
 $ go get upspin.io/cmd/...
 $ go get augie.upspin.io/cmd/upspin-ui
 ```
